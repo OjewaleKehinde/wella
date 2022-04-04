@@ -31,7 +31,7 @@ namespace assigment2
 
             //EXPLICIT CONVERSION
 
-            int num3 = 458;
+            int num3 = 454;
             double myNum = (double) num3;
 
 
