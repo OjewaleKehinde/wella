@@ -1,0 +1,16 @@
+C:\Users\MY PC\documents\wella\assigment2\bin\Debug\net5.0\assigment2.exe
+C:\Users\MY PC\documents\wella\assigment2\bin\Debug\net5.0\assigment2.deps.json
+C:\Users\MY PC\documents\wella\assigment2\bin\Debug\net5.0\assigment2.runtimeconfig.json
+C:\Users\MY PC\documents\wella\assigment2\bin\Debug\net5.0\assigment2.runtimeconfig.dev.json
+C:\Users\MY PC\documents\wella\assigment2\bin\Debug\net5.0\assigment2.dll
+C:\Users\MY PC\documents\wella\assigment2\bin\Debug\net5.0\ref\assigment2.dll
+C:\Users\MY PC\documents\wella\assigment2\bin\Debug\net5.0\assigment2.pdb
+C:\Users\MY PC\documents\wella\assigment2\obj\Debug\net5.0\assigment2.csproj.AssemblyReference.cache
+C:\Users\MY PC\documents\wella\assigment2\obj\Debug\net5.0\assigment2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MY PC\documents\wella\assigment2\obj\Debug\net5.0\assigment2.AssemblyInfoInputs.cache
+C:\Users\MY PC\documents\wella\assigment2\obj\Debug\net5.0\assigment2.AssemblyInfo.cs
+C:\Users\MY PC\documents\wella\assigment2\obj\Debug\net5.0\assigment2.csproj.CoreCompileInputs.cache
+C:\Users\MY PC\documents\wella\assigment2\obj\Debug\net5.0\assigment2.dll
+C:\Users\MY PC\documents\wella\assigment2\obj\Debug\net5.0\ref\assigment2.dll
+C:\Users\MY PC\documents\wella\assigment2\obj\Debug\net5.0\assigment2.pdb
+C:\Users\MY PC\documents\wella\assigment2\obj\Debug\net5.0\assigment2.genruntimeconfig.cache
