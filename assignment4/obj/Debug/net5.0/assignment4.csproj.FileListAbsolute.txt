@@ -1,0 +1,16 @@
+C:\Users\MY PC\documents\wella\assignment4\bin\Debug\net5.0\assignment4.exe
+C:\Users\MY PC\documents\wella\assignment4\bin\Debug\net5.0\assignment4.deps.json
+C:\Users\MY PC\documents\wella\assignment4\bin\Debug\net5.0\assignment4.runtimeconfig.json
+C:\Users\MY PC\documents\wella\assignment4\bin\Debug\net5.0\assignment4.runtimeconfig.dev.json
+C:\Users\MY PC\documents\wella\assignment4\bin\Debug\net5.0\assignment4.dll
+C:\Users\MY PC\documents\wella\assignment4\bin\Debug\net5.0\ref\assignment4.dll
+C:\Users\MY PC\documents\wella\assignment4\bin\Debug\net5.0\assignment4.pdb
+C:\Users\MY PC\documents\wella\assignment4\obj\Debug\net5.0\assignment4.csproj.AssemblyReference.cache
+C:\Users\MY PC\documents\wella\assignment4\obj\Debug\net5.0\assignment4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MY PC\documents\wella\assignment4\obj\Debug\net5.0\assignment4.AssemblyInfoInputs.cache
+C:\Users\MY PC\documents\wella\assignment4\obj\Debug\net5.0\assignment4.AssemblyInfo.cs
+C:\Users\MY PC\documents\wella\assignment4\obj\Debug\net5.0\assignment4.csproj.CoreCompileInputs.cache
+C:\Users\MY PC\documents\wella\assignment4\obj\Debug\net5.0\assignment4.dll
+C:\Users\MY PC\documents\wella\assignment4\obj\Debug\net5.0\ref\assignment4.dll
+C:\Users\MY PC\documents\wella\assignment4\obj\Debug\net5.0\assignment4.pdb
+C:\Users\MY PC\documents\wella\assignment4\obj\Debug\net5.0\assignment4.genruntimeconfig.cache
