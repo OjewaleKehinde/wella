@@ -10,12 +10,12 @@ namespace assignment4
             bool result = lessThan100();
             Console.WriteLine(result);
         }
-        static bool lessThan100(Nullable<double> a = null, Nullable<double> b = null)
+        static bool lessThan100()
         {
             Console.Write("Enter the first number: ");
-            a = double.Parse(Console.ReadLine());
+            double a = double.Parse(Console.ReadLine());
             Console.Write("Enter the second number: ");
-            b = double.Parse(Console.ReadLine());
+            double b = double.Parse(Console.ReadLine());
             if(a+b < 100)
             {
                 return true;
