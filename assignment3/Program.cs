@@ -6,7 +6,7 @@ namespace week3
     {
         static void Main(string[] args)
        {
-         // Lab 1 Assignment
+         // Lab 1 Assignment   
 
 
          Console.WriteLine("This program helps you check for prime numbers");
