@@ -9,7 +9,6 @@ namespace week6_7
             Shape[] shapes = {new Circle(2),new rectangle(34,0.94), new Triangle(14,12), new Triangle(5,6.987), new Circle(3.9)}; 
             double[] areas = new double[shapes.Length];
             for(int i= 0; i <shapes.Length;i++){
-                // List<double> areas =
                 areas[i] = shapes[i].CalculateSurace();
             }
             Console.WriteLine(areas[0]);  }
